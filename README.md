@@ -1,8 +1,4 @@
-### Hello there 👋 
-
 ![](resources/se.gif)
-
-#### PhD student at UCL, formerly tech lead at Arup City Modelling Lab
 
 Research at [UCL BIG](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/research/groups-centres-and-sections/behaviour-infrastructure-grouphttps://medicare.pt?ref=github-caneco) - RL and DGMs for ripper massive multi-agent sims<br>
 Former technical lead at [Arup CML](https://laracon.eu?ref=github-canecohttps://medium.com/arupcitymodelling)<br>
